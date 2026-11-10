@@ -1,0 +1,42 @@
+{
+  "muse.jpg": {
+    "url": "https://images.squarespace-cdn.com/content/v1/60167355d5e6a55235d6abe6/7687f220-f4d4-4cb1-a7f6-5b469b1950e7/LoveLive_Movie_KV_Orig_Logo_Copyright-1920x2705.jpg",
+    "label": "μ’s · The School Idol Movie"
+  },
+  "aqours.jpg": {
+    "url": "https://img.sunrise-inc.co.jp/images/datacard/378_main.jpg",
+    "label": "Aqours · Sunshine!! 第一季"
+  },
+  "nijigasaki.jpg": {
+    "url": "https://img.sunrise-inc.co.jp/images/datacard/437_main.jpg",
+    "label": "虹咲学园 · 第一季"
+  },
+  "liella.jpg": {
+    "url": "https://image.tmdb.org/t/p/original/4KoXFWudJb389qH0EoAdRq8xtvs.jpg",
+    "label": "Liella! · Superstar!! 第一季"
+  },
+  "aqours-movie.jpg": {
+    "url": "https://image.tmdb.org/t/p/original/cw2weO8RB8Sz7gaPCtzSfRy65Oo.jpg",
+    "label": "Aqours · Over the Rainbow"
+  },
+  "nijigasaki-2.jpg": {
+    "url": "https://img.sunrise-inc.co.jp/images/datacard/452_main.jpg",
+    "label": "虹咲学园 · 第二季"
+  },
+  "muse-school.jpg": {
+    "url": "https://img.sunrise-inc.co.jp/images/datacard/342_main.jpg",
+    "label": "μ’s · School idol project"
+  },
+  "liella-2.jpg": {
+    "url": "https://img.sunrise-inc.co.jp/images/datacard/467_main.jpg",
+    "label": "Liella! · Superstar!! 第二季"
+  },
+  "liella-3.jpg": {
+    "url": "https://data.onnada.com/anime/202408/1994052142_c3298eb1_AA12xZ.jpg",
+    "label": "Liella! · Superstar!! 第三季"
+  },
+  "liella-official.jpg": {
+    "url": "https://img.sunrise-inc.co.jp/images/datacard/444_main.jpg",
+    "label": "Liella! · Superstar!! 第一季"
+  }
+}
